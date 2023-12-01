@@ -1,5 +1,5 @@
 # Анализ сегментации пользоватей банка
-[Проект]()
+[Проект](https://github.com/Dlizai/Portfolio/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0.ipynb)
 [Презентация](<https://disk.yandex.ru/i/waEDlrjzA4CS7g>)
 [Дашборд](<https://public.tableau.com/views/_16874657517750/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link>)
 
